@@ -23,27 +23,24 @@ OS SKU/License, DiskType/Size, Backup storage, support agreement, API choice, co
 
 Benefits of using cloud services
 1. Hight Availability - Ability to remain operational to users during planned or unplanned outages
-
-2. Scalability - 
-
-3. Elasticity -
-
-4. Reliability -
-
-5. Predictability -
-
-6. Security -
-
-7. Governance -
-
-8. Manageability -
-
+2. Scalability - Ability of a system to accommodate increasing demand by adding or removing resources as needed. Vertical scaling is scaling up or down by adding resources to a single server.
+Azure - 96 vCPUs/384 GB memory. Horizontal scaling is scaling in or out. It adds more servers to systems and has no limit to scaling. Adds cost as adding no. of servers to the system. 
+3. Elasticity - Ability of a system to quickly and easily scale up or down the amount of resources that a system uses. Auto-scaling
+4. Reliability - Ability of a system to perform its intended function without interruption and with a high degree of accuracy
+5. Predictability - Ability to forecast and control the performance and behavior of a system. Includes the ability to predict system usage. 
+Achieved by autoscaling, load balancing, different instance types/sizes/pricing tiers, cost management tools, API
+6. Security - 
+7. Governance - How your organization does business. Process of defining/implementing and monitoring a framework of policies that guides an organization's cloud operations. 
+Ensures policies are followed in the cloud. Azure Policy and Blueprint
+8. Manageability - Managing cloud resources and infra on the cloud. This can be achieved by CLI, PowerShell, REST, APIs, etc
 
 Describe cloud service types
-- IaaS, PaaS, SaaS
+1. IaaS => Cloud providers only provide the infrastructure. Just computer, storage, and networking. Example, Virtual Machines, IaaS storage - Azure storage, IaaS Networking - VM
+2. PaaS => Provides more than just the infrastructure. Includes a service layer on top of IaaS - computing, storage, and networking. Example - Azure App services, CI/CD, containers, Azure SQL Database
+3. SaaS => Cloud apps - everything is managed and provided by infra so the user just needs to use those apps/services. For example, Tools such as Office 365, OneDrive, Skype
 
-4. 
-
+Serverless
+1. Enables developers to build and run application code without provisioning or managing servers or backend infra. Serverless services : Functions, Container Apps, Kubernetes, SQL Database, Cosmos DB
 
 Virtual Machines - 723 VM
 
