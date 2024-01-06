@@ -1,1 +1,59 @@
+Objectives
+- Describe cloud concepts
+- Describe Azure architecture and services (Compute, Network and Storage)
+- Describe Azure management and governance (Infra mgmt, Database, and software mgmt)
+
+Structure of Course
+Describe Cloud computing (25-305)
+1. define cloud computing => It is someone else computer, Ability to rent computing resources on demand, windows/Linux servers, 
+unlimited file storage, databases, message queues, content delivery network, batch processing jobs
+
+Describe the shared responsibility model
+1. Responsibilities between the customer and Microsoft are shared along with security
+On-premises responsibility/Cloud VM responsibility
+
+2. Define cloud models, including public/private/hybrid
+public - computing services are provided by third-party providers and available on the Internet to everyone
+private - computing services offered either over the internet or network to select users instead of the general public
+hybrid - It is a computing environment that combines a private cloud with a public cloud
+
+3. Compare cloud pricing models
+Complexity/drawback (Unable to predict) - Cloud pricing can be complicated and is based on a few factors like Geographical region, Instance size, Bandwidth, Savings Plan,
+OS SKU/License, DiskType/Size, Backup storage, support agreement, API choice, consumed storage
+
+Benefits of using cloud services
+1. Hight Availability - Ability to remain operational to users during planned or unplanned outages
+
+2. Scalability - 
+
+3. Elasticity -
+
+4. Reliability -
+
+5. Predictability -
+
+6. Security -
+
+7. Governance -
+
+8. Manageability -
+
+
+Describe cloud service types
+- IaaS, PaaS, SaaS
+
+4. 
+
+
+Virtual Machines - 723 VM
+
+Meta Data - Data related to another data
+
+
+
+
+
+
+
+
 
