@@ -114,22 +114,27 @@ Physical - Door locks and key cards
 Resource tags - adding information to resources for helping with billing and support issues. For instance, VM can be created and used 
 
 Azure Governance and Compliance
-1. Governance 
-2. Blueprints
-3. Policy
-4. Resource Locks
-5. Microsoft Purview
+1. Governance - leaders who might have certain IT rules that they want to implement. For example, if the backup of the server fails
+2. Blueprints - templates with roles and policies already defined which can contain role-based access control, policy definition etc and combined into subscription.
+You can setup denial permissions using a blueprint
+3. Policy - Create rules across all of your azure resources and can be applied on different range
+4. Resource Locks -  Read Only, Can Not Delete
+5. Microsoft Purview - Unified Data Governance. Basically documentations
 
-Tools for managing and deploying azure resources
-1. Portal and command line tools
-2. Arc
-3. IaC Infra as code
-4. ARM Templates
+Tools for managing and deploying Azure resources
+1. Azure Portal - a web-based app that allows to view resources that are running
+2. PowerShell and CLI cmd - running code and commands to connect with remote env or perform operations
+3. Arc - See and manage all your on-prem infra anywhere. Inside or outside your organization
+4. IaC Infra as code - Define your desired infra in a config file. It's like repo in github used for storing code/infra. It was be used to create another region. 
+5. DSC Desired state of configuration - Ensuring your configuration doesn't drift from the original setup
+5. ARM Templates - Azure Resource Manager service that allows you to create, update and delete resources called 'deployments'. 
+All actions that you take to manage your Azure resources goes through the ARM layer
 
 MONITORING TOOLS
-1. Advisor and service health
-2. Diagnostics Settings
-3. Monitor
+1. Advisor - Identifies the resources we are using in the Azure account and provides recommendations based on certain patterns
+2. Service health - helps you stay informed and take action, with alerts for outages and a personalized dashboard for service issues.
+2. Diagnostics Settings - used to collect resource logs
+3. Monitor - Azure Monitor Metrics is a time-series database, optimized for analyzing time-stamped data. Azure Monitor collects metrics at regular intervals.
 
 
 
