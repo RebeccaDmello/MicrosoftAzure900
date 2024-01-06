@@ -77,8 +77,42 @@ Load Balancer - distribute traffic evenly between multiple backend servers
 Application Gateway - a higher-level of load balancer with an optional firewall
 Content Delivery Network (CDN) - stores common static files on the edge, closer to the users for improved performance
 Azure Front Door Service - a load balancer, CDN, and firewall all-in-one
-4. Network Peering - connection between 2 VM to establish an exchange between them
+4. Network Peering - Connection between 2 VM to establish an exchange between them
 5. Public and private endpoints - 
+
+STORAGE
+1. Container(Blob) storage, Disk storage, File storage and storage tiers
+Storage account - any data - cheapest
+BLOB - binary large object - Collection of binary data. This binary data could be in the form of a file or data stored in a database
+2. AZCOPY - AZCOPY is a command-line utility that you can use to copy blobs or files to or from a storage account. Useful for moving data between storage devices
+Azure Blob Storage is a store for objects capable of storing large amounts of unstructured data. On the other hand, Azure File Storage is a distributed, cloud-based file system
+3. File Sync - Enables centralizing your org file shares in Azure files, while keeping the flexibility, performance and compatibility of a windows file server
+4. Migrate - helps an enterprise assess how its on-premises workloads will perform, and how much they will cost to host, in the Azure public cloud
+5. Data Box - help you transfer large amounts of data to Azure more securely and perform edge compute. Physically shipping your data to Azure and having it show up in your account. It will be encrypted, wipped-clean after use
+
+AZURE IDENTITY, ACCESS and SECURITY
+1. Identity - It is a digital representation of a person, application or device
+2. Active Directory - Identity management system used to identify users or entity
+3. Benefits of Microsoft Entra ID (Active directory) - Reduced development time and easier support, Centralized administration 
+4. Authentication - Authentication is a user proving who they are - user id and password
+5. Authorization - performing action ex - providing authorization to create a new user etc
+6. AD conditional access - Provides added security by allowing access to your applications across cloud and on-premises only from trusted and compliant devices
+7. MFA or 2MFA - Requires 2 or more pieces of evidences to provide in order to login
+8. Passwordless - Doesn't require series of word example - finger print, face scan
+9. RBAC - Role-based access control - Create roles that represent the common tasks of the job
+10. Zero-Trust Model of Security - Don't assume everything behind the firewall is safe. Verify explicitly, Use least privileged access and assume breach. Use every available method to validate identity
+and authorization
+11. Defence in Depth - Secures all 7 layers from physical to data. (OS layer)
+Data - virtual network endpoint
+Application - API management
+Compute - limit Remote Desktop access, Windows Update
+Network - NSG, use of subnets, deny by default
+Perimeter - DDoS firewalls
+Identity & access - Azure AD
+Physical - Door locks and key cards
+
+Resource tags - adding information to resources for helping with billing and support issues. For instance, VM can be created and used 
+
 
 
 
