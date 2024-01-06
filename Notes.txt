@@ -40,16 +40,45 @@ Describe cloud service types
 3. SaaS => Cloud apps - everything is managed and provided by infra so the user just needs to use those apps/services. For example, Tools such as Office 365, OneDrive, Skype
 
 Serverless
-1. Enables developers to build and run application code without provisioning or managing servers or backend infra. Serverless services : Functions, Container Apps, Kubernetes, SQL Database, Cosmos DB
+1. Enables developers to build and run application code without provisioning or managing servers or backend infra. Serverless services: Functions, Container Apps, Kubernetes, SQL Database, Cosmos DB
 
 Virtual Machines - 723 VM
 
 Meta Data - Data related to another data
 
+Architecture and services (35-40%)
+1. Regions - Areas of the world where Azure has a set of data centers. One region connected to another is called "region pair". Region pairs have highest speed connections and
+special treatment during Azure updates
+2. Availability Zones and Data Centers - AZ are physically separate locations within each Azure region. (One or more data centre). 
+Not every region supports Availability Zones, Not every service supports Availability Zones
+Three types of AZ Services: Zonal Services, Zone-Redundant Services, Always Available Services
+Zonal - You choose a specific Availability Zone to deploy the service
+Zone-Redundant - Automatically deployed across zones
+Always available services - Microsoft ensures they are always on. Also called 'Non-regional services'
+3. Resources and Resource Groups - A resource is basically a service like a Virtual Machine, storage account, or database. A Resource Group is a logical grouping of resources
+4. Subscriptions - It is basically a billing unit with Azure
+5. Management Groups - Defining different policies for different resources and assigning policies and security
 
-
-
-
+Compute and Networking services
+1. Azure Compute services - VM, VM Scale Sets, App services(web apps), Azure Container Instances (ACI), Azure container apps and Azure Kubernetes Service(AKS) and Windows Virtual Desktop
+Compute - Executing code in the cloud. 
+VM(IaaS)
+VM Scale Sets - 2 or more VM running the exact same code. Elasticity/autoscaling
+App services(PaaS) - A new paradigm for running code in the cloud
+Containers - Contains everything the app needs to run in a container image. ACI, Azure Container Apps(ACA) easy to use like a web service, Azure kubernetes services(AKS) runs on cluster
+2. Azure Functions - Small pieces of code that you can run in the cloud
+3. Networking services - VM, VPN gateway, VNet Peering and ExpressRoute
+Virtual Network - emulating a physical network
+Subnet - a subdivision of a virtual network that you control, that has its own security rules
+Virtual Private Network (VPN) - connecting two networks as if they were on the same network, uses a network gateway
+ExpressRoute - high-speed private connection to Azure
+DNS services - domain name resolution
+Load Balancer - distribute traffic evenly between multiple backend servers
+Application Gateway - a higher-level of load balancer with an optional firewall
+Content Delivery Network (CDN) - stores common static files on the edge, closer to the users for improved performance
+Azure Front Door Service - a load balancer, CDN, and firewall all-in-one
+4. Network Peering - connection between 2 VM to establish an exchange between them
+5. Public and private endpoints - 
 
 
 
