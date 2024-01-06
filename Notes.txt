@@ -113,6 +113,23 @@ Physical - Door locks and key cards
 
 Resource tags - adding information to resources for helping with billing and support issues. For instance, VM can be created and used 
 
+Azure Governance and Compliance
+1. Governance 
+2. Blueprints
+3. Policy
+4. Resource Locks
+5. Microsoft Purview
+
+Tools for managing and deploying azure resources
+1. Portal and command line tools
+2. Arc
+3. IaC Infra as code
+4. ARM Templates
+
+MONITORING TOOLS
+1. Advisor and service health
+2. Diagnostics Settings
+3. Monitor
 
 
 
