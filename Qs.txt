@@ -1,0 +1,115 @@
+1. Purpose of Azure Blueprints?
+-> Allows you to create new subscriptions that already have policies, roles, resource groups and ARM templates
+
+2. Active Directory is a network gateway that load balancer user logins using a CDN => False
+
+3. Under the IaS model, Azure is responsible for managing physical host, network and datacenter => True
+
+4. What feature of a system makes it elastic?
+=> Ability to add and reduce capacity based on actual demand
+
+5. Cloud Shell allows access to the CLI and Powershell consoles in the Azure Portal
+=> True
+
+6. Resource Groups in Azure?
+=> A folder structure in Azure in which you organize resources like databases, VM, virtual networks or almost any resource
+
+7. Powershell scripts and command line interface CLI scripts are entirely compatible with each other? FALSE
+
+8. What Azure tool gives you the ability to manage multiple subscriptions into nested hierarchies? Management Groups
+
+9. Which tool within the Azure portal will make specific recommendations based on your actual usage for how you can improve your use of Azure?
+=> Azure Advisor
+
+10. Alerts you to service issues that happen in Azure itself, not specifically related to your own resources? Azure Service Health
+
+11. What is Single Sign-on?
+=> Ability to log in once and use the existing userid and password to sign in other applications, and not have to create/memorize a new one
+
+12. What benefit does Azure Scalesets provide when it comes to virtual machines in Azure?
+=> Can manage groups of virtual machines as one unit
+
+13. What are Azure Availability Zones?
+=> A feature of Azure that allows you to manually specify into which data center your virtual machines are places, which allows you to achieve higher availability than any other option
+
+14. Which feature within Azure collects all of the logs from various resources into a central dashboard, where you can run queries, view graphs and create alerts on certain events? Azure Monitor
+
+15. What operating systems does Microsoft supply Azure Virtual Machine images for? Windows and Linux
+
+16. What resource allows you to evenly split traffic coming in and direct it to several identical virtual machines to do the work and respond to the request? Load balancer or application gateway
+
+17. How many availability zones are there in each region? 3
+
+18. Which of the foll Azure resources are required in order to have a virtual machine?
+=> Virtual network, NIC, storage account
+
+19. Which of the foll are examples of Azure sovereign regions? Azure US Government, Azure China
+
+20. Azure is a public cloud, and has no private cloud offerings? FALSE
+
+21. Core principle of Zero Trust? Assume your network has been breached already
+
+22. It can be said that most services in Azure have a public endpoint by default. What is a public endpoint?
+=> Enables access to your data or application from outside the virtual network
+
+23. What affect does using a 'read-only' resource lock on a Azure Storage Account have?
+=> Storage account cannot have its properties altered but it doesn't affect the data itself
+
+24. Azure storage account can have both a public and private endpoint at the same time. TRUE
+
+25. Which element is considered part of the <b> network </b> layer of network security? 
+=> Separate servers into distinct subnets by role
+
+26. Which storage redundancy option is the cheapest? LRS
+
+27. Which of the foll are factors in Total cost of ownership? 
+Salary costs of employees managing the servers, Real estate costs, cost to access the internet, cost of electricity
+
+28. Why is Azure App Services considered PaaS?
+=> You give azure the code and the configuration, and you have no access to the underlying hardware
+
+29. What are the 2 features that Azure AD provides?
+=> Application management, Authentication
+
+30. Technology which allows you to manage virtual machines running in Azure, in your own environment and in other environment such as AWS?
+=> Azure Arc
+
+31. What type of document does the Microsoft Service Trust Portal provide?
+=> A list of standards that microsoft follows, pen test results, security assessments, white papers, faqs and other documents that can be used to show Microsoft's compliance efforts
+
+32. Access to your own personalized windows 10 or 11 desktop machine in the cloud, so that you can access your work files and apps wherever you go from any devices? Azure Virtual Desktop
+
+33. Benefits of economies of scale? the more you buy of something, the cheaper it is for you
+
+34. Which of the foll elements is considered part of the <b>perimeter</b> layer of security? Use a firewall
+
+35. Best approach when you need to copy large amount of files between two Azure Storage accounts? AzCopy
+
+36. services considered as IaaS -> Virtual Machine, Virtual Network and Virtual NIC
+
+37. services NOT considered as IaaS -> Azure Functions App
+
+38. Why would someone prefer a Consumption-based pricing model as opposed to a time-based pricing model?
+=> You can save a lot of money if you don't use the resource often as opposed to having it available for use 24/7
+
+39. Azure charges for bandwidth used <b>inbound</b> to Azure? FALSE
+
+40. With Azure public cloud, anyone with a valid credit card can sign up and get services immediately => TRUE
+
+41. How does Multi-factor authentication make a system more secure?
+=> It requires the user to have access to an additional device for identity verification
+
+42. Which Azure AD licenses are made available through Azure? => Office 365, Active Directory Free
+
+43. You can create your own policies if built-in Azure Policy is not sufficient to your needs. TRUE
+
+44. What is the fastest connection type between your on-premises network and Microsoft Azure, if money was not a concern? Express Route
+
+45. What is Azure's preferred identity/authentication service? Active Directory
+
+46. What types of resources are defines as <b> compute resources</b>? 
+=> Resources that perform some type of task that required CPU cycles to perform the work
+
+47. Which Azure technology allows you to log in to Azure Active Directory device or application using your face, a PIN code or a gesture instead of having to type a password?
+=> Passwordless
+
