@@ -1,0 +1,46 @@
+1. What is the recommended way within Azure to store secrets such as private cryptographic keys?
+-> Azure key vault
+
+2. Where do you go within azure to find all of the third party virtual machines and other offers?
+-> Azure marketplace
+
+3. What benefits does CDN provide to it's users?
+-> Allows you to reduce the traffic coming into a web server for static, unchanging files such as videos, images
+
+4. What is the default amount of credits that you are given when you first create an Azure Free account?
+-> US $200
+
+5. Within the context of privacy and compliance, what does the acronym ISO stand for, in English?
+-> International Organization for Standardization
+
+6. How does Multi-Factor Authentication make a system more secure?
+-> It requires the user to have access to an additional device for identity verification
+
+7. What happens if Azure does not meet its own Service Level Agreement guarantee(SLA)?
+-> A discount will be applied to the customer's Azure bill(as a service credit), which is a compensation for an under-performing Azure product or service
+
+8. What two types of DDoS protection services does Azure provide?
+-> DDos network and IP Protection
+
+9. What does it mean if a service is in private preview mode?
+-> You have to apply to get selected in order to use that service
+
+10. What is a DDoS attack?
+-> A denial of service attack that sends so much traffic to a network that it cannot respond fast enough; legitimate users become unable to use the service
+
+11. For tax optimization, which type of expense is preferable?
+-> OpEx
+
+12. What are Azure Availability Zones?
+-> A feature of azure that allows you to manually specify into which data center your virtual machines are placed, which allows you to achieve higher availability than any other option
+
+13. What does it mean if a service is in General Availability(GA) mode?
+-> Anyone can use the service for any reason
+
+14. What is the concept of Big Data?
+-> An extremely large set of data that you want to ingest and do analysis on; traditional software like SQL Server cannot handle Big Data as efficiently as specialized products
+
+15. What does it mean if a service is in public preview mode?
+-> Anyone can use the service but normal service level agreements do not apply
+
+16. 
