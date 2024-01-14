@@ -75,3 +75,9 @@
 
 26. An IT admin has the requirement to control access to a specific app resource using multi-factor authentication. What Azure service satisfies this requirement?
 -> Microsoft Entra ID
+
+27. There are no service level guarantees (SLA) when a service is in General Availability (GA)
+-> False
+
+28. What is the best way of protecting an Azure Virtual Network subnet?
+-> Network Security Group
