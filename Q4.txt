@@ -1,0 +1,87 @@
+1. What is the new data privacy and infomation protection regulation that took effect across Europe in May 2018?
+-> GDPR
+
+2. If you are a US federal, state, local or tribal government entities and their solution providers, wich Azure option should you be looking to register for?
+-> Azure Government
+
+3. What 2 types of DDoS protection services does Azure provide?
+-> DDoS Network Protection, DDoS IP Protection
+
+4. Which of the foll cloud computing models requires the highest level of involvement in maintaining the OS and file system by the customer?
+-> IaaS
+
+5. Which of the foll is not a feature of Azure Functions?
+-> Designed for backend batch applications that are continuously running
+
+6. Which of the foll is a good example of a hybrid cloud?
+-> A server runs in your own environment, but places files in the cloud so that it can extend the amount of storage it has access to
+
+7. Which product allows you to autoscale VM from 1 to 1000 instances, and also provides load balancing services built in?
+-> VM Scale Sets
+
+8. What is the maximum amount of Azure storage space a single subscription can store?
+-> Virtually unlimited
+
+9. What is the SLA for 2 or more Azure Virtual Machines that have been manually placed into different Availability Zones in the same region?
+-> 99.99%
+
+10. What is the SLA for 2 or more VM in an same AZ?
+-> 99.95%
+
+11. Which Azure service is the recommended IaaS offering inside Azure?
+-> Azure Active Directory(AD)
+
+12. How do you get access to services in private preview mode?
+-> You must apply to use them
+
+13. What is the benefit of using Powershell over CLI?
+-> No benefit, it's the same
+
+14. What database service if specifically designed to be extremely fast in responding to requests for small amount if data (called low latency)?
+-> Cosmos DB
+
+15. Which tool within Azure is comprised of: Azure Status, Service Health and Resource Health?
+-> Azure Service Health
+
+16. In which US state is the East US 2 region?
+-> Virginia
+
+17. What is the concept of being able to get your app and data running in another environment quickly?
+-> Business Continuity / Disaster Recovery (BC/DR)
+
+18. Security service checks all traffic travelling over a subnet against a set of rules before allowing it in, or out
+-> Network security group
+
+19. Which of the foll is considered a downside to using Capital Expenditure(CapEx)?
+-> You must wait over a period of years to depreciate that investment on your taxes
+
+20. What is the concept of paired regions?
+-> Each region in the world has at least one other region in which is shares an extremely high speed connection, and where there is coordinated action by Azure not to do anything that will bring them down at the same time
+
+21. Application Gateway contains what additional optional security feature over a regular load balancer?
+-> Web Application Firewall (WAF)
+
+22. What is the concept of Availability?
+-> The percentage of time a system responds properly to requests, expressed as a percentage over time
+
+23. Windows servers use "remote desktop protocol(RDP)" in order for administrators to get access to manage the server. Linux servers use SSH. What is the recommendation for ensuring the security of these protocols?
+-> Do not allow public internet access over the RDP and SSH ports directly to the server. Instead use a secure server like Bastion to control access to the servers behind
+
+24. What makes estimating the cost of an unmanged storage account difficult?
+-> You are charged for data leaving Azure, and it's difficult to predict that
+
+25. Select all features part of Azure AD?
+-> Custom banned password list, Single sign-on, Smart lockout, Device Management
+
+26. Besides service health, where else can you find out any issues that affect the Azure global network that affect you?
+-> Each VM has a Resource Health blade
+
+27. What does it mean if a service is in public preview mode?
+-> Anyone can use the service but it must not be for production use
+
+28. Benefit of using a command line tool like Powershell or CLI as opposed to the Azure portal?
+-> Automation
+
+29. What is the concept of Big Data?
+-> An extremely large set of data that you want to ingest and do analysis on; traditional software like SQL Server cannot handle Big Data as efficiently as sepcialized products
+
