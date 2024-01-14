@@ -1,0 +1,80 @@
+1. What is a policy initiative in Azure?
+-> The ability to group policies together
+
+2. What is an Azure subscription?
+-> It is the level at which services are billed. All resources created under a subscription are billed to that subscription
+
+3. How do you stop your azure account from incurring costs above a certain level without your knowledge?
+-> Implement the Azure spending limit in the Account Center
+
+4. what are groups of subscriptions called?
+-> Management Groups
+
+5. How many minutes per month downtime is 99.99% availability?
+-> 4
+
+6. If you wanted to get an alert every time a new virtual machine is created, where could you create that?
+-> Azure Monitor
+
+7. If your feature is in the General Availability phase, then your feature will receive support from all Microsoft support channels
+-> True
+
+8. What software is used to synchronize your on premises AD with your Azure AD?
+-> AD Connect
+
+9. Through Azure AD one can control access to an app but not the resources of the app
+-> False
+
+10. What does it mean that security is a "shared model" in Azure?
+-> Both users and Azure have responsibilities for security
+
+11. What is the goal of a DDoS attack?
+-> To overwhelm and exhaust application resources
+
+12. Which database product offers "sub 5 millisecond" respose times as a feature?
+-> Cosmos DB
+
+13. How many hours are available free when using the Azure B1S General Purpose Virtual MAchines under a Azure free account in the first 12 months?
+-> 750 hrs
+
+14. Which Azure service can be enabled to enable Multi-Factor authentication for admin but not require it for regular users?
+-> Privileged Identity Management
+
+15. Which 2 features does VM scale sets provide as part of the core products?
+-> Autoscaling of VM, load balancing between VM
+
+16. Azure Tenant is a dedicated and trusted instance of Azure Active Directory that's automatically created when your org signs up for microsoft cloud service subscription
+-> True
+
+17. What happends if Azure does not meet its own SLA gurantee?
+-> You will be financially refunded a small amount of your monthly fee
+
+18. what does the letter R in RBAC stand for?
+-> Role
+
+19. For tax optimization, which type of expense is preferable?
+-> OpEx
+
+20. Deploying Azure App Services app consists of what two components?
+-> Configuration, Packaged code
+
+21. Where can you go to see what standard microsoft is in compliance with?
+-> Trust Center
+
+22. What adv does an Application Gatewar have over a Load Balancer?
+-> Application gateway understands the HTTP protocol and can interpret the URL and make decisions based on the URL
+
+23. Which of the following are one of the adv of running your cloud in a private cloud?
+-> Assurance that your code, data and applications are running on isolated hardware and on an isolated network
+
+24. Which style of computing is easiest when migrating an existing hosted app from your own data center into the cloud?
+-> IaaS
+
+25. Which of the foll resources are not considered compute resources?
+-> Load Balancer
+
+26. Which Azure service, when enabled, will automatically block traffic to or from know malicious IP addresses and domains?
+-> Azure Firewall
+
+27. what 2 advantages does cloud computing elasticity give to you?
+-> You can serve users better during peak traffic periods by automatically adding more capacity, you can save money
