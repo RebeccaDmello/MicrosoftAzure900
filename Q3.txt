@@ -1,1 +1,29 @@
+1. Which Azure website tool is available for you to estimate the future costs of your Azure products and services by adding products to a shopping basket and helping you calculate the costs?
+-> Azure Pricing Calculator
 
+2. Which of the following is a feature of the tool access tier for Azure storage?
+-> Much cheaper to store your files than the hot access tier
+
+3. In the context of Azure's service level agreement for virtual machines, which of the following deployment strategies would offer the highest level of availability?
+-> Deploying 2 or more virtual machines across different availability zones within the same region
+
+4. Which Azure feature is specifically designed to help companies get their in-house developed code from the code repository, through automated unit testing, and onto Azure using a service called Pipelines?
+-> Azure DevOps
+
+5. You have decided to subscribe to Azure DDoS protection at the IP Protection Tier. This provides advanced protection to defend against DDoS attacks. What types of DDoS attack does DDoS Protection NOT protect against?
+-> Application (L7) level attacks
+
+6. What is the name of Azure's hosted SQL database service?
+-> Azure SQL Database
+
+7. Formal support is not included in private preview mode.
+-> True
+
+8. Who is responsible for the security of your Azure Storage account access keys?
+-> I am responsible for securing the access keys
+
+9. Which tool within Azure helps you to track your compliance with various international standards and government laws?
+-> Compliance Manager
+
+10. Which of the following characteristics is essential for a system to be considered highly available in a cloud computing environment?
+-> System must be designed for resilience, with no single point of failure
