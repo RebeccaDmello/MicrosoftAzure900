@@ -27,3 +27,51 @@
 
 10. Which of the following characteristics is essential for a system to be considered highly available in a cloud computing environment?
 -> System must be designed for resilience, with no single point of failure
+
+11. What is the primary benefit of opting for a consumption-based pricing model over a time-based pricing model in cloud services?
+-> Significant cost savings when the resources aren't needed for constant use
+
+12. Which of the following Azure feature is most likely to deliver the most immediate savings when it comes to reducing Azure costs?
+-> Using Azure Reserved Instances for most of your virtual machines
+
+13. Azure services can go through several phases in a Service Lifecycle. What are the three phases called?
+-> Private preview, public preview and general availability
+
+14. What is the name of the group of services inside Azure that hosts the Apache Hadoop big data analysis tools?
+-> HDInsight
+
+15. Which major cloud provider offers the most international locations for customers to provision virtual machines and other servers?
+-> Microsoft Azure
+
+16. What is the MAIN management tool used for managing Azure resources with a graphical user interface?
+-> Azure Portal
+
+17. Logic apps, functions and service fabric are all examples of what model of compute within Azure?
+-> Serverless model
+
+18. When establishing a Site-to-Site VPN connection with Azure, what kind of network device needs to be present or installed in your company's on-premises network infra?
+-> A compatible VPN Gateway device
+
+19. Which Azure service contains pre-built machine learning models that you can use in your own code, using an API?
+-> Cognitive Services
+
+20. In Azure, what is the maximum number of virtual machines that can be included in a single virtual machine scale set, as per Azure's standard guidelines and capabilities?
+-> 1000
+
+21. Can you give someone else access to your Azure subscription without giving them your username and password?
+-> Yes
+
+22. In the context of cloud computing, how is the benefit of agility best described?
+-> It refers to the ability to quickly respond to and drive changes in the market
+
+23. Which Azure service is meant to be a security dashboard that contains all the security and threat protection in one place?
+-> Azure Security Center
+
+24. Which type of container is used to collect log and metric data from various Azure resources?
+-> Log Analytics workspace
+
+25. In the context of Azure's high availability solutions, what is the primary purpose of Azure Availability Zones?
+-> They allow manual selection of data centers for virtual machine placement to achieve superior availability compared to other options
+
+26. An IT admin has the requirement to control access to a specific app resource using multi-factor authentication. What Azure service satisfies this requirement?
+-> Microsoft Entra ID
