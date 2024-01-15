@@ -1,0 +1,118 @@
+1. When an Microsoft Entra user connects to Microsoft Entra from the internet using an anonymous IP address, you would like that user to be automatically required to change their password
+-> Microsoft Entra Identify Protection
+
+2. Which of the foll statements regarding the cost of using the Azure cloud is correct?
+-> Azure Offers flexbility on capital expenditure(CapEx) and operating expenditure(OpEx)
+
+3. You are building an app using Azure VM. As a security requirement at that time, it is necessary to apply MFA based on certain conditions. Which Azure service should you choose for this?
+-> Microsoft Entra ID Protection
+
+4. __ provides a command platform for deploying objects to your cloud infra and maintaining consistency across your Azure env
+-> ARM
+
+5. You plan to extend your company's network to Azure, as a hybrid cloud.
+In the on-premises environment, a VPN appliance with an IP address of 136.168.103.1 is used, and it is necessary to identify this VPN appliance on the Azure side.
+Which is the best solution for that?
+-> Local network gateway
+
+6. A resource group (MyRG01) has an azure virtual network (VNET-A) If you assign an Azure policy that specifies that MyRG01 is not allowed to create/update virtual networks
+-> VNET-A continues to fundtion normally
+
+7. Your company is using a serverless app to automate the data registration process. Which Azure service should you use?
+-> Azure Functions
+
+8. Which service provides L3-L7 filtering of network traffic for multiple Azure subscriptions and virtual networks?
+-> Azure Firewall
+
+9. What are the security benefits of storing data in the Azure cloud?
+-> Users have full control over their data
+
+10. Your company can use __ to automatically add a watermark to documents containing credit card info
+-> Azure information Protection
+
+11. You create a resource group named Resource1 in ARM. What settings are required to prevent accidental deletion and overwriting of resources in Resource1?
+-> Set Resource1 to ReadOnly
+
+12. You want to create an Azure support request. Please select the 2 best solutions for this
+-> Azure Support Ticket REST API, Azure Portal
+
+13. After creating a virtual machine, you need to change the __ to allow connections of the TCP port 8080 on the VM
+-> Network Security Group (NSG)
+
+14. Your company is considering migrating from an on-premises environment to Azure. You need to estimate the cost savings of running your solution on Azure. Which tool is right for you?
+-> Azure TCO Calculator
+
+15. Azure services will be available to all Azure users during __
+-> Public preview
+
+16. Each availability zone consits of a single data center
+-> No
+
+17. What are the characteristics of the cloud that can provide continuous user experience without downtime even when problems occur?
+-> Fault tolerance
+
+18. The ability to maintain performance during load fluctuation is an example of agility of cloud
+-> No
+
+19. The ability to dynamically and flexibly change resource allocation is an example of cloud elasticity
+-> Yes
+
+20. Your company launches 10 windows server 2016 servers and 20 linux virtual machines of a specific instance size to test the app. It is necessary to dleete these virtual machines after the test if finished.
+Which Azyre service should be used to minimize the admin effort required to deploy and remove these virtual machines?
+-> Azure DevTest Labs
+
+21. Azure advisor provides advice on how to improve the security of your Microsoft Entra usage
+-> No
+
+22. Azure advisor provides cost savings recommendation and is availble for free
+-> Yes
+
+23. A public cloud can extend the internal network of an on-premises environment
+-> Yes
+
+24. You need a database that stores JSON formatted documents and that can respond in milliseconds. This database will be accessed and used simultaneously from multiple regions. Which database is best for this case?
+-> Cosmos DB
+
+25. Azure resources can only access other resources within the same resource group
+-> No
+
+26. If a particular region fails, you can use the backups to restore your resources
+-> Disaster recovery
+
+27. Azure DevOps Services can organize continuos integration/continuos develivery(CI/CD) pipelines to deploy app to Azure
+-> Yes
+
+28. Azure DevOps Service allows you to store development code in Git repo
+-> Yes
+
+29. DevOps services allows you to host and operate web apps
+-> No
+
+30. OP operations can be executed interactively
+-> IaaS
+
+31. __ extends the on-premises network to the Azure cloud via a private connection
+-> ExpressRoute
+
+32. __ combines two or more Azure VM into one logical VM
+-> Virtual network peering
+
+33. __ provides an encrypted connection from your on-premises network to Azure over a public network
+-> VPN gateway
+
+34. To use Microsoft Entra, it is necessary to implement a domain controller in an Azure Virtual machine
+-> No
+
+35. Which azure service should be used to automatically prompt a password change for Microsoft entra users when connecting from an unknown IP address?
+-> Microsoft Entra Identity Protection
+
+36. Which is the correct way to save money on running underutilized windows 10 Azure virtual machines?
+-> Change it to the deallocated state
+
+37. You can create group policies using Microsoft Entra Domain Services
+-> Yes
+
+
+
+
+
