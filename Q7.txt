@@ -1,1 +1,125 @@
+1. Your company has 500 virtual machines hosted in an on-premises environment. You plan to migrate all of these to Azure. What will your spending model be after moving to Azure?
+-> Operating expense
 
+2. You are required to stay up to date with the latest Azure security standards to protect your data. what service should you use for this?
+-> Trust center
+
+3. Which solution should you use to assess whether your Azure resources meet security standards or not?
+-> Microsoft Defender for Cloud
+
+4. Microsoft Defender for cloud can monitor Azure and on-premises resources
+-> Yes
+
+5. You are developing an app using Azure virtual network and app service in a resource group. Based on your company's compliance, it is necessary to evaluate if there is inappropriate resource usage within this resource group, such as the creation of a virtual machine outside of Azure App Service
+-> Azure Policy
+
+6. You have been asked to remove Azure resources that are not currently being used by your company's Azure accounts to avoid additional costs
+-> Public IP address
+
+7. __ can be used to track the company's compliance activities related to Azure cloud services
+-> Compliance manager
+
+8. You are launching multiple Azure VM on Azure and you want to deny access from a specific IP address to these virtual machines
+-> Configure Azure firewall, Change the network security grp setting
+
+9. you can download a regulatory compliance report from Microsoft Defender for cloud
+-> Yes
+
+10. You have an app consisting of an Azure web app with a SLA of 99.95 percent and an Azure SQL Database with an SLA of 99.99 percent
+-> The product of both SLAs, which is 99.94 percent
+
+11. A list of planned maintenance related events across your azure resources
+-> Help and support
+
+12. You have created an Azure account and are preparing to deploy Azure services. which element should you create first?
+-> Subscription
+
+13. __ allows you to see who has turned off a particular VM in the last 14 days
+-> Azure Activity Log
+
+14. Inbound data traffic from your on-premises network to Azure is always free when connected via Azure ExpressRoute
+-> Yes
+
+15. On what basis are you billed for your Azure resources?
+-> Azure subscription
+
+16. __ is an Azure service that detects and diagnoses anomalies in web apps
+-> Azure Application Insights
+
+17. By using __, org that host physical infra can stop the use of their on-premises data centers
+-> Public cloud
+
+18. Azure Information Protection can encrypt Azure storage accounts
+-> No
+
+19. You need to implement a simple app that uses Azure to automatically send email notifications
+-> Azure functions and Azure Logic App
+
+20. With respect to Azure regions, select 2 entities that can use Azure Government
+-> United States government agencies, U.S Government Contractors
+
+21. On of the benefits of using IaaS is that users can flexibly use infra on demand
+-> Yes
+
+22. Flexibility in infra management is one of the benefits of using IaaS on the Azure cloud
+-> No
+
+23. A region with AZ is made up of 2 or more data centers
+-> Yes
+
+24. Regions are connected by broadband dedicated lines
+-> No
+
+25. You can use Azure Cost Management to set alerts when the cost of your Azure resources crosses certain thresholds
+-> Yes
+
+26. All Azure regions have multiple data centers
+-> No
+
+27. Data transfer between storage accounts in the same Azure region is free
+-> Yes
+
+28. Azure cost management can display costs associated with management groups and resource grps
+-> Yes
+
+29. User's responsibility in a PaaS?
+-> Application data management, Application account management
+
+30. Network security groups (NSGs) are associated with VM subnets to control traffic
+-> Yes
+
+31. NSGs are associated with VM to control traffic
+-> No
+
+32. NSGs are associated with network interfaces to control traffic
+-> No
+
+33. Azure Monitor can display Microsoft Entra activity logs
+-> Yes
+
+34. Azure Monitor can monitor resources in multiple Azure subscription
+-> Yes
+
+35. Azure Monitor can trigger alerts based on data collected in Azure Log Analytics
+-> Yes
+
+36. Your cloud archi requires defence-in-depth. Choose the appro security element that should be used in the compute layer
+-> Software updates and patching
+
+37. The cloud requires defense in depth. Choose the right security element to use in the identify and access layers for this.
+-> MFA
+
+38. A user with the Owner role can transfer ownership of an Azure subscription
+-> No
+
+39. Azure spending limits already set are fixed and cannot be changed
+-> Yes
+
+40. Your company is planning to migrate from on-premises env to Azure. It is necessary to proceed with app development using Docker as the development environment
+-> Azure App Service, Azure Container Instances
+
+41. Your company plans to migrate an on-premises SQL server database using the common language runtime (CLR) to an azure environment
+-> Migrate the SQL server database to Azure SQL Managed Instance
+
+42. How many copies of data is stored in Locally Redundant storage (LRD) in Azure Storage Accounts?
+-> 3
