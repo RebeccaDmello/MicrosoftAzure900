@@ -1,0 +1,170 @@
+1. Users can access MSDN Platforms by setting up a pay-as-you-go subscription in Azure
+-> Yes
+
+2. You can access MSDN forums by setting up a pay-as-you-go subcription in Azure
+-> No
+
+3. Azure Advisor works with Microsoft Defender for cloud to provide security recommendations
+-> Yes
+
+4. When hosting an app on a PaaS solution, users can also have complete control over the OS
+-> No
+
+5. PaaS solutins have options for increasing memory by paying additional/higher costs
+-> Yes
+
+6. PaaS solutions can automatically scale the number of virtual machine instances
+-> yes
+
+7. You can require Multi-factor authentication (MFA) during authentication for all user accounts
+-> Yes
+
+8. All Azure services in public preview are
+-> Excluded from service level agreements
+
+9. There are data transfer charges between different Azure regions
+-> Yes
+
+10. __ is a service that helps you build intelligent apps
+-> Azure Cognitive Services
+
+11. Your company uses one Azure subscription for multiple projects. You have been asked yo seperate usage reports for each project
+Which Azure RM feature should you use before generating these reports?
+-> Tag settings
+
+12. Your company operates a web app hosted on Azure. You have to manage the settings of this app from your iPhone. Choose 2 Azure management tools that you can use from your iPhone
+-> Azure Portal and Azure Cloud Shell
+
+13. Apps hosted in Azure need to obtain a security token. what should this app connect to for this?
+-> Microsoft Entra
+
+14. Which of the foll statements about Azure Service Health is correct?
+-> 1. Azure service health allows administrators to create rules and to get notified when an Azure service fails
+2. Azure Service Health allows administrators to see the health of all services in their Azure environment
+
+15. You have to use __ to provide a particular user access to multiple subscription
+-> Management group
+
+16. Using a single Azure account, you can manage multiple subscriptions
+-> Yes
+
+17. The initial cost of using a data center is an example of CapEx
+-> Yes
+
+18. Your boss asked you to check the usability of Azure resources using your Azure free account. Which of the following is the correct description for an Azure free account?
+-> One free account can be registered per person
+
+19. Your company plans to stop using the current data center infra. Instead of using your own infra, which cloud solution should you use to continue your infra config?
+-> Public cloud
+
+20. You are trying to build a predictive analytics model using historical user behavior data. Which service should you use?
+-> Azure Machine Learning
+
+21. You are creating a new Azure account and trying to implement effective policy management. When setting up an Azure policy, which of the foll actions should you take 
+to group policy definitions
+-> Create initiative definitions to group policy definitions
+
+22. Your company is planning to implement data management using cloud storage. Which storage types are available as data services in Azure Storage?
+-> BLOB, Table and File
+
+24. There are differences in the available Azure services for each Azure region
+-> Yes
+
+25. There is a difference in the prices of Azure services for each region of Azure
+-> Yes
+
+26. Every user can use every region
+-> No
+
+27. Traffic cannot be distributed across Azure regions
+-> No
+
+28. Azure data centers undergo third-party security audits
+-> Yes
+
+29. Users can use their own data centers to deploy Azure services
+-> Yes
+
+30. Microsoft employees can access Azure data centers
+-> No
+
+31. Data can be asynchronously replicated to other regions for disaster recovery
+-> Yes
+
+32. Microsoft Azure account with an active EA portal is required when associating an enterprise Azure subscription
+-> Yes
+
+33. Azure Multi-factor authentication (MFA) can be set up to grant access via both facial recognition and mobile phone passcodes, in combination
+-> Yes
+
+34. Azure Advisor will identify virtual machines that are not backed up and can give recommendations like "enable backups"
+-> Yes
+
+35. Advisor can list Azure VM with Azure backup applied
+-> No
+
+36. __ will send an alert to the user when the cost of the billing period for the subscription exceeds the cap
+-> Azure Cost Management
+
+37. Which cloud model has hardware resources, such as physical servers owned by third party, and share the use of these with multiple internal users?
+-> Public Cloud
+
+38. A company has extended their data center networks to the Azure network, connecting physical servers on-premises with the VM on Azure. what kind of cloud model is this?
+-> Hybrid Cloud
+
+39. A company has deployed its own physical servers into the cloud environment. Which of the foll cloud models could this be?
+=> Private or hybrid cloud only
+
+40. Which cloud service model solution is Azure Backup?
+-> PaaS
+
+41. Azure private DNS can be associated with VM
+-> Yes
+
+42. Azure private DNS allows you to use your own custom domain name dedicated to your virtual network
+-> Yes
+
+43. Azure File Sync agent allows you to sync data from on-premises storage to Azure file shares
+-> Yes
+
+44. AZ are available in all Azure regions
+-> No
+
+45. AZ can be used to replicate data across multiple regions
+-> No
+
+46. Service that allows you to view audit reports and compliance-related info for Azure services is__
+-> Micorsoft Service Trust Portal
+
+47. My Library in the trust portal lets you store your documents and resources in one place
+-> Yes
+
+48. Which of these documents would help you answer questions like, "How does Micro use the data it collects from you?"
+-> Micorosft Privacy Statement
+
+49. What tools are available to create a new Azure VM from an Android OS tablet?
+-> Portal, Bash, Powershell
+
+50. Which of the foll is the correct tool to use to run Azure CLI commands?
+-> Windows Powershell, Command prompt
+
+51. Which of the foll is the correct tool to use to run Azure CLI commands?
+-> Windows PowerShell, Terminal and Command prompt
+
+52. Azure CLI is installed by default on windows 11
+-> No
+
+53. You are running a web app on Azure. This app consists of 2 VM and SQL database. Access to the app is slow during busy
+hrs of the day, but it is rarely used at night or on holidays
+-> Scale out your app during busy hours
+
+54. You can place multiple VM in an availability set in order to handle the server failures of a data center
+-> Yes
+
+55. What is the storage type used with unmanaged disks in Azure VM?
+-> Page BLOB
+
+56. You are planning to build a data warehouse linked to SQL Database
+-> Azure Synapse Analytics
+
+
