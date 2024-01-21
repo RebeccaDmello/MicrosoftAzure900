@@ -1,0 +1,74 @@
+1. Which service can automatically adjust the protection of user-specific Azure resources within a virtual network DDoS attack protection?
+-> Azure DDoD Protection Network Protection
+
+2. You currently use Azure VM to host long-lived apps. Choose the best way to reduce the cost of this Azure VM
+-> Apply Azure Reservations to all virtual servers
+
+3. What are the benefits of having multiple Azure subscriptions?
+-> Use multiple subscriptions when you want to separate resources for each project while consolidating resource payments
+
+4. What is the maximum amount of storage a single stoarge account can take?
+-> 5 PiB
+
+5. Azure region pair
+-> Each region has one or more paired regions that share very fast connections, and Azure ensures that both are not down at the same time. This is called a region pair
+
+6. What do you call an object that represents a user, group, service principal or managed identity requesting access to an Azure resource?
+-> Security principal
+
+7. Which Azure services can use Apache Hadoop big data analytics tools
+-> Azure Hadoop Services
+
+8. Users are responsible for managing access keys for Azure Storageaccounts
+-> Yes
+
+9. You need to launch a VM with an instance type that is restricted by an Azure policy. What should you do?
+-> Remove the policy and then start the VM
+
+10. Which tools or services can find issues affecting Azure resources?
+-> Azure Monitor and Service Health
+
+11. Which of the foll archi config are considered part of the security layer?
+-> Azure Firewall configuration
+
+12. Please select the correct description of the policy initiative for Azure
+-> A policy initiative is the ability to group policies
+
+13. You plan to configure VM using virtual machine scale sets
+-> Load balancing and automatic scaling of VM
+
+14. Which confif is used on Azure for the network layer of network security?
+-> Subnet configuration
+
+15. An example of scalability is the ability to grown and shrink resources on demand
+-> Yes
+
+16. Please select all correct options that describe documents provided by the Microsoft Service Trust Portal
+-> 1. Documentation on Microsoft's commitment to compliance, Penetration test results
+
+17. What can you do to avoid unplanned costs to your free account?
+-> Set an Azure spending limit through Cost management and billing
+
+18. Which features can an Azure App Service Environment host?
+-> Docker Container, Functions
+
+19. Characteristtics of traffic control using app gateway
+-> Azure app gateway can load balance traffic based on URI path
+
+20. Azure policies can be set so that only certain users can access resource groups
+-> No
+
+21. When creating Functions, you need to edit code using the Azure Functions dedicated code editor
+-> No
+
+22. Azure Functions can be triggered by event based on the Azure Event Grid
+-> Yes
+
+23. Azure Logic Apps os a serverless solution for running code
+-> No
+
+24. Azure Logic Apps can build stateful serverless apps
+-> Yes
+
+25. Azure Functions are a serverless solution for creating functions. These functions only work in the cloud
+-> No
