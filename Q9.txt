@@ -1,0 +1,160 @@
+1. You are building an app using Azure VM. As a security requirement at that time, it is necessary to monitor threats throughout the network
+-> Microsoft Defender for Identity
+
+2. You are building a mechanism to store log files using blob storage. This data is rarely accessed. Please choose the most cost-optimal storage access tier
+-> Archive
+
+3. You are considering an architecture configuration using Azure
+-> A maximum of 20 update domains can be set
+
+4. Best solution for connecting VN between regions
+-> Global virtual network peering
+
+5. Using Azure VM instead of traditional servers improves fault tolerance
+-> Yes
+
+6. Using Azure vitual machines instead of traditional servers makes data backup and protection completely automatic
+-> No
+
+7. Azure side performs patch management for software on Azure VM
+-> No
+
+8. Azure Information Protection can troubleshoot using scanner diagnostic tools
+-> Yes
+
+9. You can configure MFA for identities by deploying a federation solution
+-> Yes
+
+10. On-premises identities need to be synced to the cloud when setting up MFA for identities
+-> No
+
+11. Creating a new resource group incurs additional costs in Azure
+-> No
+
+12. How is a VM uptime calculated?
+-> (max available minutes - downtime time in minutes) / max available minutes * 100
+
+13. You have an Microsoft Entra tenant associated with your Azure subscription. All admins are required to enter a verification code to access the Azure Portal. In doing so, admin should only be able to access the Azure portal from the on-premises netwirk
+-> Microsoft Entra Identity Protection sign-in risk policy
+
+14. Which cloud computing model allows you to run and deploy your own system, without the need to manage the OS?
+-> PaaS
+
+15. Which are the correct descriptions of Azure RM functionality?
+-> Resource group settings, Tagging resources
+
+16. Your company is developing 2 apps. How would you configure each app to isolate them from each other and allow independent development
+-> Separate virtual networks
+
+17. Your company needs a VPN connection between Azure and your on-premises env. Which is the best network component to use in this scenario
+-> Virtual network gateway, Local network gateway
+
+18. You are preparing to run an Azure powerSheel script from your linux computer. What kind of preparation do you need to do before this?
+-> Install PowerShell Core, Install the PowerShell module
+
+19. Your company is planning a hybrid cloud that uses an on-premises env and azure. Currently, you use Active Directory Domain Service for user management in the office
+Which of the foll is the best sol for using info from on-premises to manage users in Azure?
+-> Deploy Microsoft Entra Connect to Synchronize info
+
+20. Azure VM are priced differently across AZ within the same region
+-> No
+
+21. You are looking to streamline compliance management within your subscription using Blueprints
+-> Ability to assign Azure policies, Ability to template Azure resources, ability to Role-Based Permissions(RBAC)
+
+22. You want to monitor activities conducted by users and take steps to store this data
+->Azure Monitor, Event Hubs and Storage
+
+23. Your company has configured a hybrid cloud with an on-premises env and Azure. It is necessary to develop a way to integrate monitoring of on-premises servers and Azure VM. Which solution is best for this?
+-> Azure Monitor Log Analytics
+
+24. Zones in Azure are same as AZ
+-> No
+
+25. When monitoring azure resources, it is necessary to manage them for each region separately
+-> No
+
+26. No additional cost is required when using Azure globally across multiple regions
+-> Yes
+
+27. You subscribe to an Azure support plan and would like to be able to received telephone support. 
+Which support plan should you subscribe to in order to get this?
+-> Professional Direct, Standard and Premier Support for Enterprise
+
+28. You would like to subscribe to an Azure support plan that will allow you to receive design reviews based on your company's requirements?
+-> Microsoft Premier Support for Partners
+
+29. Which type of preview is the second phase of the release process for new Azure services?
+-> Public preview
+
+30. You are building a web app using multiple Azure VM. You should assign the same permissions to all VM
+-> Set the VM in the same  resource group
+
+31. PaaS solutions provide useful capabilities for developing custom apps
+-> Yes
+
+32. SaaS require users to apply software updates
+-> No
+
+33. Which of the foll Azure management tools can be used to download data stored in Azure Storage online?
+-> Azure Storage Explorer, AzCopy
+
+34. You need to create an azure resource that defines a VPN appliance using a specific IP address within you company. Which Azure resource should you create?
+-> Local network gateway
+
+35. Which service should you use to limit incoming traffic based on threat intelligence to the 5 virtual networks you're running?
+-> Azure Firewall
+
+36. You can apply tags to resources using Azure policies
+-> Yes
+
+37. Federation in the Microsoft identity platform can authorize authenticated users to perform a specific action
+-> No
+
+38. You can add multiple tags to the same Azure resource
+-> Yes
+
+39. You can set multiple delete locks on the same Azure resource
+-> Yes
+
+40. Ability to deploy apps and data across multiple regions using the cloud is called
+-> Geographical distribution
+
+41. Increasing computing capacity in response to demand is called__
+-> Scalability
+
+42. Optimizing the user exp by deploying a globally available app in multiple regions close to the user is called __
+-> Geo-replication
+
+43. Blob storage archive access tiers can be set for storage accounts
+-> No
+
+44. What are the characteristics of a public cloud compared to an on-premises envi?
+-> Public cloud allows for self-service management, Pay-as-you-go model can be used on the public cloud
+
+45. Which are used for accessing Azure Files?
+-> SMB, NFS and Azure Files REST API
+
+46. What is the best way to migrate user account info from on-premises AD to Azure?
+-> Synchronize account info using PHS
+
+47. There is a penalty for deleting data in the cool access tier of Azure Storage Blob within 30 days
+-> Yes
+
+48. Best central management solution to connect, monitor and manage your O=IOT devices
+-> IOC Central
+
+49. Which storage can be used as a data volume to store virtual machine data?
+-> Azure Blob storage
+
+50. If you create 2 VM of the same size, each will always have the same monthly cost
+-> No
+
+51. If Microsoft plans to end support for an Azure service that does not have a successor service, Micor will provide at least __ notice
+-> 12 months
+
+52. Your company plans to build a billing app on Azure. To do so, it is necessary to install some apps and software on the server in advance
+-> IaaS
+
+53. Your company uses an on-premises AD to manage 3000 user accounts. The company plans to migrate all network resources to Azure and decommission its on-premises data center
+-> Synchronize all AD user accounts to M E
