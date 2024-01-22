@@ -1,0 +1,112 @@
+1. What services is used to enable the Just-In-Time(JIT) VM access feature?
+-> Azure Security Center
+
+2. Which services can implement OS virtualization?
+-> Azure Container Instances
+
+3. Statements
+- The SLA for microsoft Entra Premium P2 is 99.99%
+- If the SLA result is below the target SLA, credit will be given out to be a paid account
+
+4. Which tool can be used to create a azure VM from an Android tablet?
+-> Use Azure portal, Use bash with azure cloud shell, use powershell with Azure cloud shell
+
+5. The correct description of the way to access the data stored in the archive access layer of your azure storage account
+-> Rehydrate data from the archive layer
+
+6. Correct action to take if you want to increase your Azure subscription limit
+-> Make a new support request
+
+7. Which Azure services are available for security information and event management
+-> Azure sentinel
+
+8. You are trying to mount a network drive to Azure Storage from multiple computers running Windows 10.
+-> Azure Files
+
+9. You need to divide and manage Azure resources by department for your company. What is the most suitable way to divide Azure resources for this purpose/
+-> Use multiple subscription
+
+10. Which file type should you use to copy files into your storage account using the Azure Import/Export service?
+-> CSV file
+
+11. You cannot associate the same subscription with multiple microsoft entra tenants
+-> Yes
+
+12. Which model of cloud service is Azure Cosmo DB?
+-> PaaS
+
+13. What should you use to see the number of past failed requests in the app gateway?
+-> App gateway metrics
+
+14. You want to automatically configure 100 VM and 10 storage accounts.
+-> ARM templates
+
+15. You plan to store shared documents in blob storage. Since this data is stored over the medium to long term, it is necessary to be able to access this in the 
+event of a disaster while keeping costs down as much as possible
+-> Geo Redundancy
+
+16. Users are encouraged to use regions that are geographically cllose to each other. Why are they encouraged to do this?
+-> To ensure a lower latency
+
+17. Adding a resource group does not incur costs
+-> Yes
+
+18. Azure Cost Management and Billing can perform billing management tasks such as bill payments
+-> Yes
+
+19. Azure Cost Management and Biling allow you to pre-apply data analysis to costs
+-> Yes
+
+20. When you assign a tag to a resource group, all Azure resources in that resource group are assigned the same tag
+-> No
+
+21. When you assign an Azure policy to a resource group, all Azure resources in that resource group are assigned the same policy
+-> Yes
+
+22. If you give a user permission to access a resource group, that user can manage all Azure resources in that resource grp
+-> Yes
+
+23. To build a hybrid cloud configuration, you need a private cloud
+-> No
+
+24. Creating a new resource group incurs additional costs on Azure
+-> No
+
+25. By setting and managing tags in a resource group, the same tags are inherited by the resources within that resource grp
+-> No
+
+26. You want to integrate a solution that has messaging capabilities with an existing app hosted in Azure?
+-> Azure Service Bus
+
+27. You would use Azure policies when implementing efficient permission management, dividing users into groups and setting permissions
+-> No
+
+28. When you implement efficient permission management by dividing users into grps and setting permissions, you should set groups using Azure management grps
+-> Yes
+
+29. Three months after you setup your Azure free account, you'll still have free access to a subset of Azure services
+-> Yes
+
+30. You need to assign a product license to an Microsoft Entra user, but the user is limited to a single product license assignment
+-> No
+
+31. Your company has objects stored in the Archive access tier of Azure Blob storage. What must you do before accessing these objects?
+-> Rehydrate the objects
+
+32. An app needs to collect events from multiple sources and process them on the app
+-> Azure Event Grid
+
+33. Service used to back up virtual hard disk files for virtual machines?
+-> Azure Backup
+
+34. Azure SQL database allows users to perform patch management of the database software
+-> No
+
+35. A database hosted on the VM allows the user to perform patch management of the database software
+-> Yes
+
+36. What do you call the factor that allows an app to take less time to complete an action and also wait less time for next subsequent processing to begin?
+-> Low latency
+
+37. App that needs to store petabytes of data and required the ability to perform complex queries across the data. 
+-> azure Synapse
